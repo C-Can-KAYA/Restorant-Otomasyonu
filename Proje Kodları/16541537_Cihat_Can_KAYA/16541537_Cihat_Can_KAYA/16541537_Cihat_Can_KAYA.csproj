@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AC93E716-45B3-41E2-9B85-88A1DD6EE1E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_16541537_Cihat_Can_KAYA</RootNamespace>
+    <AssemblyName>16541537_Cihat_Can_KAYA</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adet.Designer.cs">
+      <DependentUpon>adet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anamenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anamenu.Designer.cs">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ayar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayar.Designer.cs">
+      <DependentUpon>Ayar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hesapislemlemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hesapislemlemleri.Designer.cs">
+      <DependentUpon>Hesapislemlemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kuryeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kuryeler.Designer.cs">
+      <DependentUpon>Kuryeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Masalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Masalar.Designer.cs">
+      <DependentUpon>Masalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mutfak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mutfak.Designer.cs">
+      <DependentUpon>Mutfak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personeller.Designer.cs">
+      <DependentUpon>Personeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Siparisler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Siparisler.Designer.cs">
+      <DependentUpon>Siparisler.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adet.resx">
+      <DependentUpon>adet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anamenu.resx">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayar.resx">
+      <DependentUpon>Ayar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hesapislemlemleri.resx">
+      <DependentUpon>Hesapislemlemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kuryeler.resx">
+      <DependentUpon>Kuryeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Masalar.resx">
+      <DependentUpon>Masalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mutfak.resx">
+      <DependentUpon>Mutfak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personeller.resx">
+      <DependentUpon>Personeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Siparisler.resx">
+      <DependentUpon>Siparisler.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris_arkaplan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giris1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cikis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hesap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personeller.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mutfak.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezervasyon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rapor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezervasy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezervasyon1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hesap1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rezervasyon2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siparisler.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masa1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masalar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personeller1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rapor1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mutfak1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cikis1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pekle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\psil.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pgüncelle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\h_kurye.jpg" />
+    <None Include="Resources\h_masa.jpg" />
+    <None Include="Resources\masaa.png" />
+    <None Include="Resources\kuryee.png" />
+    <None Include="Resources\masa6.png" />
+    <None Include="Resources\masa5.png" />
+    <None Include="Resources\masa4.png" />
+    <None Include="Resources\masa3.png" />
+    <None Include="Resources\masa2.png" />
+    <None Include="Resources\masa.png" />
+    <None Include="Resources\kurye4.png" />
+    <None Include="Resources\kurye3.png" />
+    <None Include="Resources\kurye2.png" />
+    <None Include="Resources\kurye.png" />
+    <None Include="Resources\tl.jpg" />
+    <None Include="Resources\sil.jpg" />
+    <None Include="Resources\siparis.jpg" />
+    <None Include="Resources\masa2.jpg" />
+    <None Include="Resources\kuryeler.jpg" />
+    <None Include="Resources\ekle.jpg" />
+    <None Include="Resources\salatalar.jpg" />
+    <None Include="Resources\tatlılar.jpg" />
+    <None Include="Resources\arasıcaklar.jpg" />
+    <None Include="Resources\anayemekler.jpg" />
+    <None Include="Resources\corbalar.jpg" />
+    <None Include="Resources\b_icecekler-3.jpg" />
+    <None Include="Resources\kurye.jpg" />
+    <None Include="Resources\rapor2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

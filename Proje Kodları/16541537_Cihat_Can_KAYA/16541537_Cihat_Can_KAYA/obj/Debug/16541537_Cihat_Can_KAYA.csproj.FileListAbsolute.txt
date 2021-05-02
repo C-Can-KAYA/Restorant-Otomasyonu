@@ -1,0 +1,111 @@
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe.config
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Properties.Resources.resources
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.giris.resources
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Anamenu.resources
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Ayar.resources
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Personeller.resources
+C:\Users\asus\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Mutfak.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe.config
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csprojResolveAssemblyReference.cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Anamenu.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Ayar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.giris.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Mutfak.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Personeller.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Properties.Resources.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csproj.GenerateResource.Cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe.config
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csprojResolveAssemblyReference.cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Anamenu.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Ayar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.giris.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Mutfak.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Personeller.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Properties.Resources.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csproj.GenerateResource.Cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu 1.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe.config
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Anamenu.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Ayar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.giris.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Mutfak.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Personeller.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Properties.Resources.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csproj.GenerateResource.Cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Siparisler.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.adet.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csprojResolveAssemblyReference.cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Hesapislemlemleri.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Kuryeler.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu 3.kontrol\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Masalar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe.config
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csprojResolveAssemblyReference.cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.adet.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Anamenu.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Ayar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.giris.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Hesapislemlemleri.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Kuryeler.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Masalar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Mutfak.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Personeller.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Properties.Resources.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Siparisler.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csproj.GenerateResource.Cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe.config
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.pdb
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csprojResolveAssemblyReference.cache
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.adet.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Anamenu.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Ayar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.giris.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Hesapislemlemleri.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Kuryeler.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Masalar.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Mutfak.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Personeller.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Properties.Resources.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Siparisler.resources
+C:\Users\CİHAT CAN KAYA\Desktop\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csproj.GenerateResource.Cache
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe.config
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.exe
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\bin\Debug\16541537_Cihat_Can_KAYA.pdb
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csprojResolveAssemblyReference.cache
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.adet.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Anamenu.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Ayar.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.giris.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Hesapislemlemleri.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Kuryeler.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Masalar.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Mutfak.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Personeller.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Properties.Resources.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\_16541537_Cihat_Can_KAYA.Siparisler.resources
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.csproj.GenerateResource.Cache
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.exe
+F:\restaurant Otomasyonu Teslim\16541537_Cihat_Can_KAYA\16541537_Cihat_Can_KAYA\obj\Debug\16541537_Cihat_Can_KAYA.pdb
